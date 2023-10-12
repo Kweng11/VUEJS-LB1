@@ -1,4 +1,4 @@
-# vuejs-lb1
+# newvue
 
 ## Project setup
 ```
